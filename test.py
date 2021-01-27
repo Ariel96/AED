@@ -1,2 +1,1 @@
-print("Hola mundo")
-print ("Hola 2")
+print(2+2)
